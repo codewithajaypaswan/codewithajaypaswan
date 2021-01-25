@@ -5,26 +5,19 @@ I am _Ajay Paswan_. I have strong media and communication professional with a Ba
 ### 😄 Pronouns
 He/His
 
-### ⚡ One line that describes me best? 
+### ⚡ One line that describes me best?
 An ambitious boy who loves to play guitar, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/) 
-- [LinkedIn](https://www.linkedin.com/in//) 
-- [My personal portfolio](http://) 
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com/in//)
+- [My personal portfolio](https://codewithajaypaswan.github.io/ajay/)
 - My personal blog- [_Ajay Codes](/)
 - [Medium](https://medium.com/)
 - [Sourcerer](https:)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
 
 ***
 
@@ -44,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
