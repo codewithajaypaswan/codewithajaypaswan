@@ -9,11 +9,10 @@ He/His
 An ambitious boy who loves to play guitar, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/)
-- [LinkedIn](https://www.linkedin.com/in//)
+- (https://www.linkedin.com/in/ajay-paswan-995214202/)
 - [My personal portfolio](https://codewithajaypaswan.github.io/ajay/)
-- My personal blog- [_Ajay Codes](/)
-- [Medium](https://medium.com/)
+- https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black[Leetcode](https://leetcode.com/super_cool123/)
+- [Binary Search](https://medium.com/)
 - [Sourcerer](https:)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
