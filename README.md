@@ -1,6 +1,6 @@
 # Hello, geeks! 👋
 
-I am _Ajay Paswan_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Durgapur. I am an experienced developer skilled in Competitive Programming, C++,C, NodeJs, MongoDB, express JS, . My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am _Ajay Paswan_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Durgapur. I am an experienced developer skilled in Competitive Programming, C++,C,HTML, CSS, JavaScript, NodeJs, MongoDB, express JS, . My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### 😄 Pronouns
 He/His
@@ -13,11 +13,12 @@ An ambitious boy who loves to play guitar, day dream at nights and sometime code
 ![GitHub followers](https://img.shields.io/github/followers/codewithajaypaswan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=codewithajaypaswan&color=brightgreen">  
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-GREEN.svg)](https://leetcode.com/super_cool123/)
-<br>
-[![Binarysearch](https://binarysearch.com/api/shields/super_cool123)](https://binarysearch.com/@/super_cool123)
-<br>
-
+<a href="https://leetcode.com/super_cool123/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>&nbsp;&nbsp;
+<a href="ajaypaswan001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/paswan001">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>&nbsp;&nbsp;
