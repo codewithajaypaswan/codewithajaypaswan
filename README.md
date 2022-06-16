@@ -2,9 +2,6 @@
 
 I am _Ajay Paswan_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Durgapur. I am an experienced developer skilled in Competitive Programming, C++,C,HTML, CSS, JavaScript, NodeJs, MongoDB, express JS, . My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
-### 😄 Pronouns
-He/His
-
 ### ⚡ One line that describes me best?
 An ambitious boy who loves to play guitar, day dream at nights and sometime codes too.😉😉
 
