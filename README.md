@@ -9,10 +9,15 @@ He/His
 An ambitious boy who loves to play guitar, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-[![Leetcode](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/suraj__k/)
+[![Linkedin: Ajay Paswan](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-73a7891a4//)](https://www.linkedin.com/in/suraj-kumar-73a7891a4/)
+![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=codewithajaypaswan&color=brightgreen">  
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/super_cool123/)
 <br>
-[![Binarysearch](https://binarysearch.com/api/shields/huikang)](https://binarysearch.com/@/azmuth13)
-<br
+[![Binarysearch](https://binarysearch.com/api/shields/azmuth13)](https://binarysearch.com/@/super_cool123)
+<br>
+
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
