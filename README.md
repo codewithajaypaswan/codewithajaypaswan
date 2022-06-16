@@ -10,14 +10,15 @@ An ambitious boy who loves to play guitar, day dream at nights and sometime code
 
 ### 📫 How to reach me?
 [![Linkedin: Ajay Paswan](https://img.shields.io/badge/-Ajay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-paswan-995214202/)](https://www.linkedin.com/in/ajay-paswan-995214202/)
-![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/codewithajaypaswan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=codewithajaypaswan&color=brightgreen">  
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/super_cool123/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-GREEN.svg)](https://leetcode.com/super_cool123/)
 <br>
-[![Binarysearch](https://binarysearch.com/api/shields/azmuth13)](https://binarysearch.com/@/super_cool123)
+[![Binarysearch](https://binarysearch.com/api/shields/super_cool123)](https://binarysearch.com/@/super_cool123)
 <br>
 
+![image]({https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white})
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
