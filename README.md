@@ -9,7 +9,7 @@ He/His
 An ambitious boy who loves to play guitar, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-[![Linkedin: Ajay Paswan](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-73a7891a4//)](https://www.linkedin.com/in/suraj-kumar-73a7891a4/)
+[![Linkedin: Ajay Paswan](https://img.shields.io/badge/-Ajay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-paswan-995214202/)](https://www.linkedin.com/in/ajay-paswan-995214202/)
 ![GitHub followers](https://img.shields.io/github/followers/azmuth13?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=codewithajaypaswan&color=brightgreen">  
 
